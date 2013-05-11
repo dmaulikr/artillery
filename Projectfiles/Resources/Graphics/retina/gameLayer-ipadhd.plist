@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>barrel</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{115,103}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{115,103}}</string>
+			<key>sourceSize</key>
+			<string>{115,103}</string>
+		</dict>
+		<key>canonball</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,198},{39,39}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{39,39}}</string>
+			<key>sourceSize</key>
+			<string>{39,39}</string>
+		</dict>
+		<key>wheel</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,107},{89,89}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{89,89}}</string>
+			<key>sourceSize</key>
+			<string>{89,89}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>gameLayer.png</string>
+		<key>size</key>
+		<string>{128,256}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:d8b47d087fbce8caabee97a787f7440f$</string>
+		<key>textureFileName</key>
+		<string>gameLayer.png</string>
+	</dict>
+</dict>
+</plist>
