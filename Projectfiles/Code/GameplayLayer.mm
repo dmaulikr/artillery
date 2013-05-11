@@ -56,7 +56,7 @@
 
 - (void) initPhysics
 {
-    //create world
+    //create world.
     b2Vec2 gravity;
     gravity.Set(0.0f, -15.0f);
     _world = new b2World(gravity);
